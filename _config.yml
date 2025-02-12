@@ -13,7 +13,7 @@ title                    : "Zain Ul Abidin Jillani"
 title_separator          : "-"
 name                     : &name "Zain Ul Abidin Jillani"
 description              : &description "personal description"
-url                      : https://zeej0935.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zeej935.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
