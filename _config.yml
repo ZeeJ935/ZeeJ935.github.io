@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zain Ul Abidin Jillani"
+title                    : "Zain's Homepage"
 title_separator          : "-"
 name                     : &name "Zain Ul Abidin Jillani"
 description              : &description "personal description"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ZeeJ935"
+  github           : "ZeeJ935"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
