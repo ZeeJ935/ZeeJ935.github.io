@@ -22,7 +22,7 @@ I am currently a final-year student at the National University of Computer and E
 - **[CarCare Mobile Application](https://github.com/ZeeJ935/CarCare-Mobile-Application)** - A vehicle maintenance app with service history tracking, built using React Native, MongoDB, and Node.js.  
 - **[IAC with Terraform](https://github.com/ZeeJ935/IAC-with-Terraform)** - Implemented Infrastructure as Code (IAC) using Terraform to automate cloud infrastructure deployment, improving scalability and reliability.  
 - **[CelebA Spoof Detection using ViT](https://github.com/ZeeJ935/VIT)** - Fine-tuned a Vision Transformer (ViT) model for face anti-spoofing using the CelebA Spoof dataset, enhancing security in face authentication systems.  
-- **[VAE & GANs for MNIST/Pneumonia](https://github.com/ZeeJ935/VAE-and-GANS)** - Implemented **Variational Autoencoders (VAEs)** and **Generative Adversarial Networks (GANs)** for MNIST digit classification, MNIST fashion dataset, and pneumonia anomaly detection in **Chest X-ray images**. Utilized **PyTorch, PCA, and latent space visualization** for feature extraction and classification.  
+- **[VAE & GANs for MNIST/Pneumonia](https://github.com/ZeeJ935/VAE-and-GANS)** - Implemented Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) for MNIST digit classification, MNIST fashion dataset, and pneumonia anomaly detection in Chest X-ray images. Utilized PyTorch, PCA, and latent space visualization for feature extraction and classification.  
 
 
 ### Extra-Curricular Activities  
