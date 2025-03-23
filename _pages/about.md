@@ -16,11 +16,14 @@ I am currently a final-year student at the National University of Computer and E
 **Tools & Platforms:** Selenium, AWS, Docker, Git, Firebase  
 
 ### Notable Projects  
-- **[Animal Classifier](https://github.com/ZeeJ935/Animal-Classifier)** - Developed a machine learning model that classifies images of 12,000+ AI-generated animals into 64 different classes.  
+- **[Animal Classifier](https://github.com/ZeeJ935/Animal-Classifier)** - Developed a machine learning model that classifies images of 12,000+ AI-generated animals into 64 different classes using deep learning techniques.  
 - **[Cinema Website](https://github.com/ZeeJ935/Cinema-Website)** - Built a movie listing and booking platform using HTML, CSS, PHP, and JavaScript, with XAMPP backend services.  
 - **[Cinema Windows Application](https://github.com/ZeeJ935/Cinema-Windows-Application)** - A Java-based application for managing movie listings, showtimes, and bookings.  
 - **[CarCare Mobile Application](https://github.com/ZeeJ935/CarCare-Mobile-Application)** - A vehicle maintenance app with service history tracking, built using React Native, MongoDB, and Node.js.  
-- **[IAC with Terraform](https://github.com/ZeeJ935/IAC-with-Terraform)** - Infrastructure as Code (IAC) project using Terraform to automate cloud infrastructure deployment.  
+- **[IAC with Terraform](https://github.com/ZeeJ935/IAC-with-Terraform)** - Implemented Infrastructure as Code (IAC) using Terraform to automate cloud infrastructure deployment, improving scalability and reliability.  
+- **[CelebA Spoof Detection using ViT](https://github.com/ZeeJ935/VIT)** - Fine-tuned a Vision Transformer (ViT) model for face anti-spoofing using the CelebA Spoof dataset, enhancing security in face authentication systems.  
+- **[VAE & GANs for MNIST/Pneumonia](https://github.com/ZeeJ935/VAE-and-GANS)** - Implemented **Variational Autoencoders (VAEs)** and **Generative Adversarial Networks (GANs)** for MNIST digit classification, MNIST fashion dataset, and pneumonia anomaly detection in **Chest X-ray images**. Utilized **PyTorch, PCA, and latent space visualization** for feature extraction and classification.  
+
 
 ### Extra-Curricular Activities  
 - **Cloud Bootcamp 2024 (VAPORVM)**
